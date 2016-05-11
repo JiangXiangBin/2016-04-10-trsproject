@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="2016-04-10-trsproject"
+  id="myeclipse.1460442876258"
+  context-root="/trs1"
+  j2ee-spec="5.0"
+  archive="2016-04-10-trsproject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
